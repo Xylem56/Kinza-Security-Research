@@ -1,0 +1,5 @@
+[profile.default]
+solc_version = "0.8.20"
+
+[rpc_endpoints]
+bsc = "https://bsc-dataseed.binance.org/"
