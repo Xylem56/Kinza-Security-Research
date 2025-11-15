@@ -362,7 +362,6 @@ My name is Oracle_Web3, and I'm a Security Researcher and Solidity developer foc
 **Connect with me:**
 - Twitter: [Xylem56](https://x.com/Xylem56)
 - GitHub: [Xylem56](https://github.com/Xylem56)
-- Discord: [Xylem05](https://Discord.com/Xylem05)
 
 ---
 
