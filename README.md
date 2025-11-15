@@ -329,7 +329,7 @@ Current state is secure, but the architectural dependency on multisig perfection
 ### Running the PoC
 
 ```bash
-git clone [https://github.com/Xylem56/kinza-security-research]
+git clone https://github.com/Xylem56/kinza-security-research
 cd kinza-security-research
 forge install
 forge test --match-test test_ReentrancyTest -vvvv
