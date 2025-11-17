@@ -1,5 +1,4 @@
 # Kinza-Security-Research
-Security analysis of Kinza Finance's reentrancy protection model. Demonstrates architectural risk in Aave V3 forks that rely solely on multisig governance for token whitelisting.
 
 # Kinza Finance: The Hidden Reentrancy Risk in Aave V3 Forks
 
@@ -176,7 +175,7 @@ I successfully demonstrated the attack surface by:
 5.  Proving the protocol accepts it without additional security checks
 
 Test output:
-
+Run with `-vvvv` to get tracs for analysis 
 ```
 Step 1: Deploying malicious token
 Malicious Token: 0x5615dEB798BB3E4dFa0139dFa1b3D433Cc23b72f
