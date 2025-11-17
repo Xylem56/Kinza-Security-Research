@@ -172,7 +172,7 @@ contract MockInterestRateStrategy {
 // Malicious ERC20 token with reentrancy callback
 contract MaliciousToken {
     string public constant name = "Malicious Token";
-    string public constant symbol = "EVIL";
+    string public constant symbol = "EVL";
     uint8 public constant decimals = 18;
     
     mapping(address => uint256) public balanceOf;
